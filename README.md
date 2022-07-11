@@ -16,6 +16,7 @@ The start position synchronization is handled using the on-touch function. The s
 A line spawns in front of the user will point in the direction the user needs to go as soon as a destination is chosen. The line to the user is visible as soon as the user touches the screen.
 
 Result
+
 ![image](https://user-images.githubusercontent.com/108611184/178309600-a4790180-848b-46fd-8cd3-5d3e53b5d8b1.png)
-![image](https://user-images.githubusercontent.com/108611184/178309641-b1aba6ff-28cc-4e56-b680-6dcd6e76e201.png)
+
 ![image](https://user-images.githubusercontent.com/108611184/178309680-af282e15-1629-4a55-9417-af28271d208f.png)
