@@ -59,20 +59,10 @@ public class SwitchView : MonoBehaviour
         // Calculate the current rotation angle around the Y axis we want to apply to the camera.
         // We add 180 degrees as the device camera points to the negative Z direction
         float rotationToApplyAroundY = targetEulerAngles.y; //+ 180;
-        //Debug.Log(fullscreenCamera.gameObject.transform.localRotation.eulerAngles);
-        //Debug.Log("old:" + rotationToApplyAroundY);
-        // Smooth interpolation between current camera rotation angle and the rotation angle we want to apply.
-        // Use LerpAngle to handle correctly when angles > 360
-       // float newCamRotAngleY = Mathf.LerpAngle(arrow.transform.eulerAngles.y, rotationToApplyAroundY, rotationSmoothingSpeed * Time.deltaTime);
-        //Quaternion newCamRotYQuat = Quaternion.Euler(0, newCamRotAngleY, 0);
-        //extra check to make sure that the rotation of the arrow does not change when accessing mapview from placing phone horizontal
-       // if (targetEulerAngles.x < 65)
-       // {
-           // arrow.transform.rotation = newCamRotYQuat;
-        //}
+        
     }
 
-    //logic when switch button is pressed
+    // switch button is pressed
     public void Switch()
     {
         if (!pressed)
