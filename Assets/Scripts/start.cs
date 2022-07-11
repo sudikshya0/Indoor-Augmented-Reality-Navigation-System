@@ -8,9 +8,6 @@ public class NewBehaviourScript : MonoBehaviour
 
     void Onclick()
     {
-        
-
-        
             this.gameObject.SetActive(false);
       
     }
