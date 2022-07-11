@@ -17,12 +17,16 @@ A line spawns in front of the user will point in the direction the user needs to
 Result
 
 ![image](https://user-images.githubusercontent.com/108611184/178309600-a4790180-848b-46fd-8cd3-5d3e53b5d8b1.png)
+
 Output of Indoor AR Navigation System of ACEM
 
 
 ![image](https://user-images.githubusercontent.com/108611184/178309680-af282e15-1629-4a55-9417-af28271d208f.png)
+
 Switch View with Minimap
 
+
 ![image](https://user-images.githubusercontent.com/108611184/178310286-61c1b52e-74d0-4275-85a2-fc10d17600a1.png)
+
 Minimap for Indoor Navigation System of ACEM
 A Minimap in 2D is shown with a small dot indicating the current location and following the path to destination. Minimap is centered on the object and the user is able to switch view from mini-map to full screen view so that the lines are easily visible and the information can be easily recognized by the user.
