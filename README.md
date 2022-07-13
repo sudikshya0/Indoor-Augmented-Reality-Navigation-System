@@ -30,3 +30,7 @@ Switch View with Minimap
 
 Minimap for Indoor Navigation System of ACEM
 A Minimap in 2D is shown with a small dot indicating the current location and following the path to destination. Minimap is centered on the object and the user is able to switch view from mini-map to full screen view so that the lines are easily visible and the information can be easily recognized by the user.
+
+
+https://user-images.githubusercontent.com/108611184/178787331-c974bedb-3e6f-4037-973e-30ee60f35823.mp4
+
