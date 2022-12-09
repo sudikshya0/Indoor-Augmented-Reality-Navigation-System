@@ -21,7 +21,10 @@ Minimap
 https://user-images.githubusercontent.com/108611184/178787331-c974bedb-3e6f-4037-973e-30ee60f35823.mp4
 
 Project by:
+
 sudikshya Rajkarnikar
+
 Subiddya Panthee (https://github.com/IcyflameIV)
+
 Rabiya Begum
 
